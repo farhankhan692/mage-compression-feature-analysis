@@ -1,0 +1,21 @@
+{
+    "num_images": 16,
+    "image_size": [
+        64,
+        64
+    ],
+    "vector_dimension_D": 4096,
+    "svd_rank_k": 12,
+    "pca_components_p": 6,
+    "edge_threshold": 0.12,
+    "avg_numerical_rank": 30.4375,
+    "avg_effective_rank": 3.0710669219302336,
+    "avg_svd_psnr_db": 77.74548128174797,
+    "avg_total_psnr_db": 32.55340275790046,
+    "pca_explained_variance_pct": 96.18865847690206,
+    "avg_edge_jaccard_iou": 0.49271875615943417,
+    "avg_gradient_corr": 0.8716563001788646,
+    "eckart_young_discrepancy": 1.3642372483311844e-15,
+    "isomorphism_residual": 0.0,
+    "pythagorean_residual": 4.738431869100168e-13
+}
